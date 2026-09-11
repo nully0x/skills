@@ -1,3 +1,8 @@
+---
+name: typescript-styles
+description: Style guide for cleaning up TypeScript codebases. Use when auditing or refactoring TypeScript code, reviewing TypeScript PRs, or when the user wants to remove defensive over-engineering and AI slop. Covers type design, boundary validation, abstraction discipline, and error handling.
+---
+
 # TypeScript Codebase Cleanup: Remove Defensive Over-Engineering and AI Slop
 
 Audit this TypeScript codebase and aggressively simplify AI-generated, defensive, overly abstract, or unnecessarily generic code.
