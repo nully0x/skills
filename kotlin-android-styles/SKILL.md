@@ -1,3 +1,8 @@
+---
+name: kotlin-android-styles
+description: Style and architecture guide for Kotlin Android apps. Use when writing new Kotlin or Android code, reviewing Android PRs, structuring an Android project, wiring UI state, or calling HTTP APIs from Android. Covers functional-core architecture, sealed state modeling, coroutines, and testing.
+---
+
 # Kotlin Android Style Guide
 
 Style and architecture guide for Kotlin Android apps. Use it when writing new Kotlin or Android code, reviewing Android PRs, structuring an Android project, wiring UI state, or calling HTTP APIs from Android. It enforces a functional-core style with pure domain logic, sealed state, and reducer UI shells.
